@@ -12,8 +12,8 @@ This contains all scripts that can be applied on raw file ```included_studies_cl
    * Gender/Sex: ```sexgendercheck.R```
    * Religion: _extracted manually as only 1 RCT_
    * Education: ```Education_upload.R```
-   * Socioeconomic status: ```income_upload.R```. Will need to manually match income level by year manually after.
-   * Social capital: ```Socialcap_upload.R```
+   * Socioeconomic status: ```Income_upload.R```. Will need to manually match income level by year manually after.
+   * Social capital: ```Socialcapital_upload.R```
    * Plus: ```Plus_upload.R```
 <br>
 4. Organising clincial variables: ```Clinical variables codes.R```  
